@@ -1,0 +1,251 @@
+Title,Year,Rating,Votes
+1. The Shawshank Redemption,1994,9.3,2.9
+2. The Godfather,1972,9.2,2
+3. The Dark Knight,2008,9.0,2.9
+4. The Godfather Part II,1974,9.0,1.4
+5. 12 Angry Men,1957,9.0,873
+6. Schindler's List,1993,9.0,1.5
+7. The Lord of the Rings: The Return of the King,2003,9.0,2
+8. Pulp Fiction,1994,8.9,2.2
+9. The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2
+"10. The Good, the Bad and the Ugly",1966,8.8,816
+11. Forrest Gump,1994,8.8,2.3
+12. The Lord of the Rings: The Two Towers,2002,8.8,1.8
+13. Fight Club,1999,8.8,2.3
+14. Inception,2010,8.8,2.6
+15. Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1.4
+16. The Matrix,1999,8.7,2.1
+17. Goodfellas,1990,8.7,1.3
+18. One Flew Over the Cuckoo's Nest,1975,8.7,1.1
+19. Se7en,1995,8.6,1.8
+20. Interstellar,2014,8.7,2.1
+21. It's a Wonderful Life,1946,8.6,502
+22. Seven Samurai,1954,8.6,369
+23. The Silence of the Lambs,1991,8.6,1.6
+24. Saving Private Ryan,1998,8.6,1.5
+25. City of God,2002,8.6,806
+26. Life Is Beautiful,1997,8.6,748
+27. The Green Mile,1999,8.6,1.4
+28. Terminator 2: Judgment Day,1991,8.6,1.2
+29. Star Wars: Episode IV - A New Hope,1977,8.6,1.5
+30. Back to the Future,1985,8.5,1.3
+31. Spirited Away,2001,8.6,858
+32. The Pianist,2002,8.5,920
+33. Dune: Part Two,2024,8.6,460
+34. Parasite,2019,8.5,973
+35. Psycho,1960,8.5,723
+36. Gladiator,2000,8.5,1.6
+37. Spider-Man: Across the Spider-Verse,2023,8.6,382
+38. The Lion King,1994,8.5,1.2
+39. The Departed,2006,8.5,1.4
+40. Léon: The Professional,1994,8.5,1.3
+41. American History X,1998,8.5,1.2
+42. Whiplash,2014,8.5,1
+43. The Prestige,2006,8.5,1.5
+44. Grave of the Fireflies,1988,8.5,314
+45. Harakiri,1962,8.6,70
+46. The Usual Suspects,1995,8.5,1.2
+47. Casablanca,1942,8.5,609
+48. The Intouchables,2011,8.5,936
+49. Cinema Paradiso,1988,8.5,285
+50. Modern Times,1936,8.5,261
+51. Rear Window,1954,8.5,526
+52. Once Upon a Time in the West,1968,8.5,351
+53. Alien,1979,8.5,958
+54. City Lights,1931,8.5,197
+55. Django Unchained,2012,8.5,1.7
+56. Apocalypse Now,1979,8.4,715
+57. Memento,2000,8.4,1.3
+58. WALL·E,2008,8.4,1.2
+59. 12th Fail,2023,8.9,120
+60. Raiders of the Lost Ark,1981,8.4,1
+61. The Lives of Others,2006,8.4,413
+62. Sunset Boulevard,1950,8.4,238
+63. Avengers: Infinity War,2018,8.4,1.2
+64. Paths of Glory,1957,8.4,214
+65. Spider-Man: Into the Spider-Verse,2018,8.4,680
+66. Witness for the Prosecution,1957,8.4,139
+67. The Shining,1980,8.4,1.1
+68. The Great Dictator,1940,8.4,239
+69. Aliens,1986,8.4,768
+70. Inglourious Basterds,2009,8.4,1.6
+71. The Dark Knight Rises,2012,8.4,1.8
+72. Coco,2017,8.4,598
+73. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,521
+74. Oldboy,2003,8.3,641
+75. Amadeus,1984,8.4,431
+76. American Beauty,1999,8.3,1.2
+77. Toy Story,1995,8.3,1.1
+78. Avengers: Endgame,2019,8.4,1.3
+79. Das Boot,1981,8.4,266
+80. Braveheart,1995,8.3,1.1
+81. Good Will Hunting,1997,8.3,1.1
+82. Princess Mononoke,1997,8.3,437
+83. Joker,2019,8.4,1.5
+84. Your Name.,2016,8.4,325
+85. High and Low,1963,8.4,54
+86. Once Upon a Time in America,1984,8.3,380
+87. 3 Idiots,2009,8.4,438
+88. Singin' in the Rain,1952,8.3,262
+89. Capernaum,2018,8.4,107
+90. Come and See,1985,8.4,99
+91. Requiem for a Dream,2000,8.3,904
+92. Toy Story 3,2010,8.3,898
+93. Star Wars: Episode VI - Return of the Jedi,1983,8.3,1.1
+94. Eternal Sunshine of the Spotless Mind,2004,8.3,1.1
+95. The Hunt,2012,8.3,367
+96. 2001: A Space Odyssey,1968,8.3,724
+97. Reservoir Dogs,1992,8.3,1.1
+98. Ikiru,1952,8.3,88
+99. Oppenheimer,2023,8.3,760
+100. Lawrence of Arabia,1962,8.3,316
+101. The Apartment,1960,8.3,198
+102. Incendies,2010,8.3,204
+103. North by Northwest,1959,8.3,348
+104. Citizen Kane,1941,8.3,468
+105. M,1931,8.3,169
+106. Scarface,1983,8.3,923
+107. Double Indemnity,1944,8.3,168
+108. Vertigo,1958,8.3,430
+109. Full Metal Jacket,1987,8.3,795
+110. Amélie,2001,8.3,798
+111. Heat,1995,8.3,724
+112. Up,2009,8.3,1.1
+113. A Clockwork Orange,1971,8.3,885
+114. To Kill a Mockingbird,1962,8.3,334
+115. A Separation,2011,8.3,260
+116. The Sting,1973,8.3,281
+117. Indiana Jones and the Last Crusade,1989,8.2,815
+118. Die Hard,1988,8.2,951
+119. Like Stars on Earth,2007,8.3,208
+120. Metropolis,1927,8.3,187
+121. Snatch,2000,8.2,916
+122. 1917,2019,8.2,684
+123. L.A. Confidential,1997,8.2,622
+124. Bicycle Thieves,1948,8.3,176
+125. Hamilton,2020,8.3,115
+126. Taxi Driver,1976,8.2,928
+127. Downfall,2004,8.2,377
+128. Dangal,2016,8.3,213
+129. For a Few Dollars More,1965,8.2,276
+130. Batman Begins,2005,8.2,1.6
+131. The Wolf of Wall Street,2013,8.2,1.6
+132. Some Like It Hot,1959,8.2,285
+133. Green Book,2018,8.2,581
+134. The Kid,1921,8.2,136
+135. The Father,2020,8.2,196
+136. Judgment at Nuremberg,1961,8.3,86
+137. The Truman Show,1998,8.2,1.2
+138. All About Eve,1950,8.2,140
+139. Shutter Island,2010,8.2,1.5
+140. Top Gun: Maverick,2022,8.2,712
+141. There Will Be Blood,2007,8.2,645
+142. Casino,1995,8.2,568
+143. Jurassic Park,1993,8.2,1.1
+144. Ran,1985,8.2,137
+145. The Sixth Sense,1999,8.2,1.1
+146. Pan's Labyrinth,2006,8.2,706
+147. Unforgiven,1992,8.2,439
+148. No Country for Old Men,2007,8.2,1.1
+149. A Beautiful Mind,2001,8.2,992
+150. The Thing,1982,8.2,471
+151. Kill Bill: Vol. 1,2003,8.2,1.2
+152. The Treasure of the Sierra Madre,1948,8.2,133
+153. Yojimbo,1961,8.2,132
+154. Monty Python and the Holy Grail,1975,8.2,573
+155. The Great Escape,1963,8.2,260
+156. Finding Nemo,2003,8.2,1.1
+157. Prisoners,2013,8.2,817
+158. Howl's Moving Castle,2004,8.2,454
+159. Rashomon,1950,8.2,182
+160. The Elephant Man,1980,8.2,260
+161. Dial M for Murder,1954,8.2,190
+162. Chinatown,1974,8.1,352
+163. Gone with the Wind,1939,8.2,336
+"164. Lock, Stock and Two Smoking Barrels",1998,8.1,619
+165. V for Vendetta,2005,8.2,1.2
+166. The Secret in Their Eyes,2009,8.2,224
+167. Inside Out,2015,8.1,801
+168. Raging Bull,1980,8.1,382
+"169. Three Billboards Outside Ebbing, Missouri",2017,8.1,559
+170. Trainspotting,1996,8.1,729
+171. The Bridge on the River Kwai,1957,8.1,234
+172. Klaus,2019,8.2,192
+173. Fargo,1996,8.1,731
+174. Catch Me If You Can,2002,8.1,1.1
+175. Spider-Man: No Way Home,2021,8.2,890
+176. Warrior,2011,8.1,500
+177. Gran Torino,2008,8.1,818
+178. Harry Potter and the Deathly Hallows: Part 2,2011,8.1,955
+179. My Neighbor Totoro,1988,8.1,384
+180. Million Dollar Baby,2004,8.1,725
+181. Children of Heaven,1997,8.2,81
+182. 12 Years a Slave,2013,8.1,744
+183. Blade Runner,1982,8.1,827
+184. Ben-Hur,1959,8.1,255
+185. Before Sunrise,1995,8.1,342
+186. Barry Lyndon,1975,8.1,184
+187. The Grand Budapest Hotel,2014,8.1,892
+188. Mad Max: Fury Road,2015,8.1,1.1
+189. Gone Girl,2014,8.1,1.1
+190. Hacksaw Ridge,2016,8.1,601
+191. Dead Poets Society,1989,8.1,552
+192. The Gold Rush,1925,8.1,119
+193. Memories of Murder,2003,8.1,219
+194. In the Name of the Father,1993,8.1,188
+195. Wild Tales,2014,8.1,218
+"196. Monsters, Inc.",2001,8.1,986
+197. The Deer Hunter,1978,8.1,364
+198. The General,1926,8.1,99
+199. On the Waterfront,1954,8.1,166
+200. Sherlock Jr.,1924,8.2,58
+201. How to Train Your Dragon,2010,8.1,806
+202. Jaws,1975,8.1,665
+203. Mary and Max,2009,8.1,188
+204. The Third Man,1949,8.1,183
+205. The Wages of Fear,1953,8.1,67
+206. Ratatouille,2007,8.1,834
+207. Wild Strawberries,1957,8.1,116
+208. Mr. Smith Goes to Washington,1939,8.1,122
+209. Ford v Ferrari,2019,8.1,484
+210. Tokyo Story,1953,8.1,69
+211. The Big Lebowski,1998,8.1,865
+212. Rocky,1976,8.1,632
+213. The Seventh Seal,1957,8.1,200
+214. Room,2015,8.1,453
+215. Logan,2017,8.1,839
+216. Spotlight,2015,8.1,504
+217. Hotel Rwanda,2004,8.1,374
+218. The Terminator,1984,8.1,930
+219. Platoon,1986,8.1,442
+220. The Passion of Joan of Arc,1928,8.1,61
+221. La haine,1995,8.1,198
+222. Before Sunset,2004,8.1,290
+223. Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,1.2
+224. The Best Years of Our Lives,1946,8.1,71
+225. The Exorcist,1973,8.1,458
+226. Jai Bhim,2021,8.7,218
+227. Rush,2013,8.1,517
+228. Network,1976,8.1,172
+229. The Wizard of Oz,1939,8.1,431
+230. Stand by Me,1986,8.1,445
+231. The Incredibles,2004,8.0,815
+232. Hachi: A Dog's Tale,2009,8.1,314
+233. My Father and My Son,2005,8.2,93
+234. The Sound of Music,1965,8.1,263
+235. The Handmaiden,2016,8.1,175
+236. Into the Wild,2007,8.1,661
+237. To Be or Not to Be,1942,8.1,43
+238. The Battle of Algiers,1966,8.1,66
+239. The Grapes of Wrath,1940,8.1,101
+240. Groundhog Day,1993,8.0,689
+241. Amores Perros,2000,8.1,254
+242. The Iron Giant,1999,8.1,230
+243. Rebecca,1940,8.1,148
+244. Cool Hand Luke,1967,8.1,190
+245. The Help,2011,8.1,496
+246. It Happened One Night,1934,8.1,113
+247. Drishyam,2015,8.2,96
+248. Aladdin,1992,8.0,471
+249. Dances with Wolves,1990,8.0,293
+250. Scent of a Woman,1992,8.0,332
