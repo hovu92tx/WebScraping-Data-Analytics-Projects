@@ -18,6 +18,7 @@ def ScrapeData(link):
         rating_count = re.findall(r'\b\d{1,3}(?:,\d{3})*\b',product.find('span', id='acrCustomerReviewText').string)
         rating = product.find('span', class_='a-icon-alt').string
     product_detail ={'title': title, 'Price': price, 'Rating': rating[:4],'Votes': rating_count[0]}
+    driver.quit()
     return product_detail
 
 if __name__ == '__main__':
